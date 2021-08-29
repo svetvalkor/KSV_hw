@@ -2,5 +2,5 @@
 
 using namespace std;
 int main(){
-    cout<<"file_1(2)"<< end;
+    cout<<"Hello world"<< end;
 }
