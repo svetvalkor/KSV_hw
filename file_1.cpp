@@ -2,6 +2,6 @@
 
 using namespace std;
 int main(){
-        cout<<"My new rating"<< end;
+         cout<<"Comment was added"<< end;
      
 }
